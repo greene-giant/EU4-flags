@@ -1,6 +1,8 @@
 # EU4-flags
 A flag mod for Europa Universalis IV
 
-## Orthodox Rebels
+## Countries:
 
-## Protestant Rebels
+## Rebels
+![alt text](source/orthodox_rebels.png "Orthodox Rebels")
+![alt text](source/protestant_rebels.png "Protestant Rebels")
