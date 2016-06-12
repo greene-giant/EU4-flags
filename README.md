@@ -4,6 +4,7 @@ A flag mod for Europa Universalis IV
 ## Countries:
 ![alt text](source/CAT.png "Catalonia")
 ![alt text](source/GER.png "Germany")
+![alt text](source/TUR.png "Ottomans")
 ![alt text](source/SCA.png "Scandinavia")
 ![alt text](source/SWE.png "Sweden")
 ![alt text](source/ULM.png "Ulm")
