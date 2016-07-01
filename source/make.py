@@ -1,12 +1,13 @@
 
 from __future__ import print_function
 
-import sys, os
+import sys, os, shutil
+import subprocess as subp
 
 
 
 # Installation directory:
-installDir = ''
+installDir = os.environ['USERPROFILE'] + r'\Documents\Paradox Interactive\Europa Universalis IV\mod\customFlags\gfx\flags'
 
 
 # Create a list of all the source files in this directory:
@@ -44,11 +45,30 @@ for f in sys.argv:
     if f in pngList:
         installList.append(f)
 
-# Create the tga files for the desired files:
-convertCmd = 'magick.exe'
+# Create the tga files and install them for the desired files:
+convertProgram = 'magick.exe'
+
 for f in installList:
-    pass
+    cmd = convertProgram + ' ' + f + '.png ' + f + '.tga'
 
+    print('\nCreating ' + f + '.tga')
 
+    # Create tga:
+    print("Command :: " + cmd)
+    proc = subp.Popen(cmd, shell=True, stdout=subp.PIPE, stderr=subp.PIPE)
+
+    out, err = proc.communicate()
+    print("Output  :: " + out)
+    print("Error   :: " + err)
+
+    # Install:
+    source = f + '.tga'
+    dest   = installDir + '\\' + source
+    shutil.move(source, dest)
+
+    if source in os.listdir(installDir):
+        print('Install successful')
+    else:
+        print('Install failed')
 
 
