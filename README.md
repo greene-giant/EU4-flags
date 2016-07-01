@@ -13,3 +13,6 @@ A flag mod for Europa Universalis IV
 ![alt text](source/catholic_rebels.png "Catholic Rebels")
 ![alt text](source/orthodox_rebels.png "Orthodox Rebels")
 ![alt text](source/protestant_rebels.png "Protestant Rebels")
+![alt text](source/ibadi_rebels.png "Ibadi Rebels")
+![alt text](source/shiite_rebels.png "Shiite Rebels")
+![alt text](source/sunni_rebels.png "Sunni Rebels")
