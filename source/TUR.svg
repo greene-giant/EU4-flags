@@ -47,10 +47,10 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="24.112043"
+     inkscape:cx="-13.262957"
      inkscape:cy="74"
-     inkscape:window-x="131"
-     inkscape:window-y="54"
+     inkscape:window-x="234"
+     inkscape:window-y="82"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
@@ -59,22 +59,15 @@
      inkscape:label="Layer 1"
      style="display:inline">
     <rect
-       style="fill:#e30a17;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#aa0006;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4163"
        width="128"
        height="128"
        x="0"
        y="3.8146973e-006" />
-    <rect
-       style="fill:#e30a17"
-       width="128"
-       height="85.333336"
-       x="-1.9506815e-006"
-       y="21.333332"
-       id="rect238" />
     <g
        id="g4142"
-       transform="translate(8.2802394,5.45e-5)">
+       transform="translate(8.2802394,-6.2499455)">
       <path
          stroke-miterlimit="4"
          id="path2634"
