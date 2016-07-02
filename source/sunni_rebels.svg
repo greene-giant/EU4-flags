@@ -47,7 +47,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="5.2149125"
-     inkscape:cx="63.692946"
+     inkscape:cx="56.19042"
      inkscape:cy="64"
      inkscape:window-x="664"
      inkscape:window-y="44"
@@ -70,8 +70,11 @@
      inkscape:export-filename="./catholic_rebels.png" />
   <g
      id="g4164"
-     transform="translate(-16.154746,-29.483599)"
-     style="stroke:none;fill:#ffffff;fill-opacity:1">
+     transform="matrix(0.93202254,0,0,0.93202254,-10.70603,-23.128822)"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     inkscape:export-filename=".\ibadi_rebels.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        id="path4159"
        d="M 75.698048,52.805869 A 40.677963,40.677963 0 0 0 35.020313,93.483603 40.677963,40.677963 0 0 0 75.698048,134.16133 40.677963,40.677963 0 0 0 111.65703,112.44454 29.55932,29.55932 0 0 1 88.985157,123.0422 29.55932,29.55932 0 0 1 59.426563,93.483603 29.55932,29.55932 0 0 1 88.985157,63.925009 29.55932,29.55932 0 0 1 111.71563,74.626181 40.677963,40.677963 0 0 0 75.698048,52.805869 Z"
@@ -82,6 +85,6 @@
        id="path2634"
        d="m 125.27155,103.64812 -11.87313,-2.84279 -7.9503,9.26529 -0.96535,-12.170504 -11.268597,-4.698055 11.276527,-4.678989 0.98593,-12.168854 7.93462,9.27873 11.87793,-2.822707 -6.37266,10.413559 6.35503,10.42432 z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.19529662;stroke-miterlimit:4;stroke-dashoffset:0;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19529662;stroke-miterlimit:4;stroke-dashoffset:0" />
   </g>
 </svg>
