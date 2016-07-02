@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="nationalist_rebels.svg"
+   inkscape:export-filename=".\nationalist_rebels.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1166"
+     inkscape:window-height="948"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="63.439262"
+     inkscape:cy="66.086922"
+     inkscape:window-x="601"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 128,128 0,128 Z"
+     id="path3340"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#c30000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 128,128 128,0 Z"
+     id="path3342"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     inkscape:export-filename="./ibadi_rebels.png" />
+  <g
+     id="g4160"
+     transform="matrix(1.0038116,0,0,1.0038116,161.49268,-8.2354315)"
+     style="fill:#ffffff;fill-opacity:1">
+    <rect
+       ry="3.065052"
+       transform="matrix(0.99474578,-0.10237593,0.03870362,0.99925073,0,0)"
+       y="11.314184"
+       x="-132.34654"
+       height="100.72807"
+       width="5.8218393"
+       id="rect4143"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="4.0269132"
+       rx="4.4104285"
+       cy="22.724983"
+       cx="-128.28595"
+       id="path4147"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="szzsszzsszzsszss"
+       inkscape:connector-curvature="0"
+       id="rect4149"
+       d="m -125.5584,26.230365 c 0,0 8.95932,-2.709798 18.00713,-2.738384 9.047818,-0.02856 20.581042,9.444286 27.605438,9.605749 7.024396,0.161465 16.235242,-3.382706 16.235242,-3.382706 0.648382,-0.135095 1.195498,0.533192 1.195498,1.195499 0,0 0.966491,6.04475 0.966491,9.389289 0,3.344538 -1.932981,18.01134 -1.932981,21.355879 0,3.344538 0.96649,9.389288 0.96649,9.389288 0,0.662307 -0.533189,1.195499 -1.195498,1.195499 0,0 -8.923062,3.895506 -16.235242,3.382707 -7.31218,-0.512799 -17.946553,-9.443881 -27.605438,-9.605747 -9.65888,-0.161867 -16.07416,2.416219 -16.07416,2.416219 -0.65495,0.09845 -1.1955,-0.533192 -1.1955,-1.195499 0,0 2.26324,-13.784047 2.25514,-20.550472 -0.008,-6.766425 -4.18811,-19.261822 -4.18811,-19.261822 -0.10065,-0.654614 0.53319,-1.195499 1.1955,-1.195499 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
