@@ -17,6 +17,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/ibadi_rebels.png "Ibadi Rebels")
 ![alt text](source/shiite_rebels.png "Shiite Rebels")
 ![alt text](source/sunni_rebels.png "Sunni Rebels")
+![alt text](source/animism_rebels.png "Animism Rebels")
 ![alt text](source/heretic_rebels.png "Heretic Rebels")
 ![alt text](source/anti_tax_rebels.png "Peasant Rebels")
 ![alt text](source/nationalist_rebels.png "Nationalist Rebels")
