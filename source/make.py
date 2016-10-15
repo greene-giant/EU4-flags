@@ -1,5 +1,5 @@
 
-from __future__ import print_function
+#from __future__ import print_function
 
 import sys, os, shutil
 import subprocess as subp
@@ -24,7 +24,7 @@ pngList = []
 for f in os.listdir('.'):
     if f[-3:] == "png":
         pngList.append(f[0:-4])
-        
+
 
 
 # Create a list of tga files that need updating:
@@ -41,9 +41,12 @@ for f in os.listdir('.'):
 # Make a list of the files that to install:
 installList = []
 
-for f in sys.argv:
-    if f in pngList:
-        installList.append(f)
+if "all" in sys.argv:
+    installList = pngList
+else:
+    for f in sys.argv:
+        if f in pngList:
+            installList.append(f)
 
 # Create the tga files and install them for the desired files:
 convertProgram = 'magick.exe'
@@ -58,8 +61,8 @@ for f in installList:
     proc = subp.Popen(cmd, shell=True, stdout=subp.PIPE, stderr=subp.PIPE)
 
     out, err = proc.communicate()
-    print("Output  :: " + out)
-    print("Error   :: " + err)
+    print("Output  :: " + out.decode("utf-8"))
+    print("Error   :: " + err.decode("utf-8"))
 
     # Install:
     source = f + '.tga'
