@@ -22,6 +22,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/anti_tax_rebels.png "Peasant Rebels")
 ![alt text](source/nationalist_rebels.png "Nationalist Rebels")
 ![alt text](source/noble_rebels.png "Noble Rebels")
+![alt text](source/polish_noble_rebels.png "Polish Noble Rebels")
 ![alt text](source/particularist_rebels.png "Particularist Rebels")
 ![alt text](source/pretender_rebels.png "Pretender Rebels")
 ![alt text](source/reactionary_rebels.png "Reactionary Rebels")
