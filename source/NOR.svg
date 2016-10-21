@@ -47,7 +47,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.6074563"
-     inkscape:cx="0.0033798457"
+     inkscape:cx="13.399542"
      inkscape:cy="64"
      inkscape:window-x="286"
      inkscape:window-y="85"
@@ -61,7 +61,11 @@
      x="0"
      y="0" />
   <path
-     style="fill:#002868;fill-opacity:1;stroke:#ffffff;stroke-width:3.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4134"
+     d="M 42.1875 -15.818359 L 42.1875 55.515625 L -11.505859 55.515625 L -11.505859 73.158203 L 42.1875 73.158203 L 42.1875 146.4082 L 55.994141 146.4082 L 55.994141 73.158203 L 137.29883 73.158203 L 137.29883 55.515625 L 55.994141 55.515625 L 55.994141 -15.818359 L 42.1875 -15.818359 z "
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:miter" />
+  <path
+     style="fill:#002868;fill-opacity:1;stroke:none;stroke-width:3.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:miter"
      d="M 42.1875 -15.818359 L 42.1875 55.515625 L -11.505859 55.515625 L -11.505859 73.158203 L 42.1875 73.158203 L 42.1875 146.4082 L 55.994141 146.4082 L 55.994141 73.158203 L 137.29883 73.158203 L 137.29883 55.515625 L 55.994141 55.515625 L 55.994141 -15.818359 L 42.1875 -15.818359 z "
      id="rect4140" />
 </svg>
