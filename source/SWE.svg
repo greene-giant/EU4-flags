@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="SWE.svg"
+   inkscape:export-filename="C:\Users\Patrick Greene\Home\Mods\EUIV-flags\source\SWE.png"
+   inkscape:export-xdpi="138.91"
+   inkscape:export-ydpi="138.91">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1269"
+     inkscape:window-height="970"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="58.493066"
+     inkscape:cy="64"
+     inkscape:window-x="601"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="fill:#264293;fill-opacity:1;stroke:none"
+     id="rect4151"
+     width="128"
+     height="128"
+     x="0"
+     y="0" />
+  <path
+     style="fill:#ffc400;fill-opacity:1;stroke:none"
+     d="m 38.783208,1e-6 0,52.972656 -38.7832055,0 0,17.449219 38.7832055,0 0,57.578124 14.191399,0 0,-57.578124 75.025393,0 0,-17.449219 -75.025393,0 0,-52.972656 -14.1914,0 z"
+     id="rect4144"
+     inkscape:connector-curvature="0" />
+</svg>
