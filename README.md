@@ -27,3 +27,4 @@ A flag mod for Europa Universalis IV
 ![alt text](source/particularist_rebels.png "Particularist Rebels")
 ![alt text](source/pretender_rebels.png "Pretender Rebels")
 ![alt text](source/reactionary_rebels.png "Reactionary Rebels")
+![alt text](source/revolutionary_rebels.png "Revolutionary Rebels")
