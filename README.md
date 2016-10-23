@@ -7,6 +7,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/NOR.png "Norway")
 ![alt text](source/TUR.png "Ottomans")
 ![alt text](source/SCA.png "Scandinavia")
+![alt text](source/SPA.png "Spain")
 ![alt text](source/SWE.png "Sweden")
 
 ## Rebels:
