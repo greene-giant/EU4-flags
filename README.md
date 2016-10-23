@@ -11,6 +11,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/SWE.png "Sweden")
 
 ## Rebels:
+![alt text](source/REB.png "Rebels")
 ![alt text](source/catholic_rebels.png "Catholic Rebels")
 ![alt text](source/orthodox_rebels.png "Orthodox Rebels")
 ![alt text](source/protestant_rebels.png "Protestant Rebels")
