@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="cossack_rebels.svg"
+   inkscape:export-filename=".\cossack_rebels.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1492"
+     inkscape:window-height="1031"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="87.317041"
+     inkscape:cy="76.93438"
+     inkscape:window-x="90"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 128,128 0,128 Z"
+     id="path3340"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#004e9b;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 128,128 128,0 Z"
+     id="path3342"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     inkscape:export-filename="./ibadi_rebels.png" />
+  <path
+     style="fill:#004e9b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -9.4041198,-47.563685 c 10.13110356,17.526831 -12.2202212,45.235118 -33.6835682,73.93425 0,0 2.165077,1.88546 2.459951,3.11947 0.245004,1.02532 0.06388,2.41937 -0.767031,3.06813 -0.755722,0.59005 -2.092637,0.55231 -2.876366,0 -0.776731,-0.54738 -1.166998,-1.443 -1.742271,-2.68943 -3.367412,3.42838 -8.494326,8.87197 -11.584895,13.044349 1.150547,0.86291 2.143818,1.70192 2.013457,3.06812 -0.11663,1.2223 -1.14086,2.47453 -2.301093,2.87637 -1.860651,0.64442 -4.430543,0.11685 -5.752733,-1.3423 -1.645024,-1.81542 -1.939316,-5.04171 -0.958789,-7.286799 1.959562,-4.48676 9.372867,-12.35674 11.961597,-15.52075 -1.534063,-0.28763 -1.696835,-0.21991 -2.373709,-0.97042 -0.789363,-0.87523 -0.98243,-2.244781 -0.383515,-3.259882 0.57556,-0.975516 2.146843,-1.168654 3.259882,-0.958788 1.303864,0.245847 2.927712,1.658023 2.927712,1.658023 11.412898,-14.3455626 33.126551,-35.669373 39.8013712,-68.740343 z"
+     id="path4140"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsssccsssscssscc" />
+  <g
+     id="g4166"
+     transform="translate(57.480236,-28.223717)"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       sodipodi:nodetypes="ccsssccsssscssscc"
+       inkscape:connector-curvature="0"
+       id="path4140-7"
+       d="M 30.427927,41.877602 C 40.55904,59.404433 18.207707,87.11272 -3.2556332,115.81185 c 0,0 2.16507,1.88546 2.45994999,3.11947 0.245,1.02532 0.0639,2.41937 -0.76702999,3.06813 -0.75573,0.59005 -2.09264,0.55231 -2.87637,0 -0.77673,-0.54738 -1.167,-1.443 -1.74227,-2.68943 -3.36741,3.42838 -8.4943298,8.87197 -11.5848958,13.04435 1.150546,0.86291 2.143816,1.70192 2.013456,3.06812 -0.11663,1.2223 -1.14086,2.47453 -2.301092,2.87637 -1.860651,0.64442 -4.430543,0.11685 -5.752733,-1.3423 -1.645024,-1.81542 -1.939316,-5.04171 -0.958789,-7.2868 1.959562,-4.48676 9.372864,-12.35674 11.961594,-15.52075 -1.53406,-0.28763 -1.69683,-0.21991 -2.37371,-0.97042 -0.78936,-0.87523 -0.98243,-2.24478 -0.38351,-3.25988 0.57556,-0.97552 2.14684,-1.16866 3.25988,-0.95879 1.30386,0.24585 2.9277098,1.65802 2.9277098,1.65802 C 2.0394568,96.272382 23.753107,74.948572 30.427927,41.877602 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -17.388403,41.877602 c -10.131104,17.526831 12.2202188,45.235118 33.683569,73.934248 0,0 -2.16508,1.88546 -2.45995,3.11947 -0.24501,1.02532 -0.0639,2.41937 0.76703,3.06813 0.75572,0.59005 2.09264,0.55231 2.87636,0 0.77674,-0.54738 1.167,-1.443 1.74228,-2.68943 3.36741,3.42838 8.49432,8.87197 11.58489,13.04435 -1.15055,0.86291 -2.14382,1.70192 -2.01346,3.06812 0.11663,1.2223 1.14086,2.47453 2.3011,2.87637 1.86065,0.64442 4.43054,0.11685 5.75273,-1.3423 1.64502,-1.81542 1.93932,-5.04171 0.95879,-7.2868 -1.95956,-4.48676 -9.37287,-12.35674 -11.9616,-15.52075 1.53406,-0.28763 1.69684,-0.21991 2.37371,-0.97042 0.78936,-0.87523 0.98243,-2.24478 0.38352,-3.25988 -0.57556,-0.97552 -2.14685,-1.16866 -3.25989,-0.95879 -1.30386,0.24585 -2.92771,1.65802 -2.92771,1.65802 -11.4129,-14.345558 -33.12655,-35.669368 -39.801369,-68.740338 z"
+       id="path4146-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssccsssscssscc" />
+  </g>
+  <rect
+     style="fill:#004e9b;fill-opacity:1;stroke:none;stroke-width:15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4181"
+     width="23.59322"
+     height="20.067797"
+     x="57.220341"
+     y="-55.59322" />
+  <rect
+     style="fill:#f7c500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4183"
+     width="20.61017"
+     height="27.38983"
+     x="91.389832"
+     y="-55.322033" />
+  <rect
+     style="fill:#b52315;fill-opacity:1;stroke:none;stroke-width:15;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4185"
+     width="16.271187"
+     height="27.38983"
+     x="123.38983"
+     y="-48.542374" />
+</svg>
