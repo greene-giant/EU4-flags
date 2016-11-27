@@ -24,6 +24,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/animism_rebels.png "Animism Rebels")
 ![alt text](source/heretic_rebels.png "Heretic Rebels")
 ![alt text](source/shamanism_rebels.png "Shamanism Rebels")
+![alt text](source/tengri_pagan_rebels.png "Tengri Rebels")
 ![alt text](source/cossack_rebels.png "Cossack Rebels")
 ![alt text](source/anti_tax_rebels.png "Peasant Rebels")
 ![alt text](source/nationalist_rebels.png "Nationalist Rebels")
@@ -33,3 +34,4 @@ A flag mod for Europa Universalis IV
 ![alt text](source/pretender_rebels.png "Pretender Rebels")
 ![alt text](source/reactionary_rebels.png "Reactionary Rebels")
 ![alt text](source/revolutionary_rebels.png "Revolutionary Rebels")
+![alt text](source/tribal_rebels.png "Tribal Rebels")

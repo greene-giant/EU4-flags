@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="tribal_rebels.svg"
+   inkscape:export-filename=".\tribal_rebels.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1268"
+     inkscape:window-height="999"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="68.534593"
+     inkscape:cy="68.51022"
+     inkscape:window-x="307"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-midpoints="false" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 128,128 0,128 Z"
+     id="path3340"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#816945;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 128,128 128,0 Z"
+     id="path3342"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     inkscape:export-filename="./catholic_rebels.png" />
+  <g
+     id="g4204"
+     transform="translate(0.00676,-10e-7)">
+    <path
+       sodipodi:nodetypes="cccccscccc"
+       inkscape:connector-curvature="0"
+       id="path4180"
+       d="m 63.932441,24.375875 0,44.344627 c 0,0 3.6213,-11.707545 3.52542,-14.008638 17.64171,2.396972 22.64407,18.478739 22.64407,24.135593 0.19176,5.465096 -0.83586,17.897821 -20.20339,27.389833 23.01093,-0.76703 37.743509,-22.428455 37.879859,-41.233969 0.16319,-22.507047 -13.359792,-37.322205 -32.184949,-43.240609 20.830636,15.988509 25.028579,26.88338 24.26437,44.484212 -5.27334,-17.929352 -15.90129,-26.599535 -32.46775,-29.229975 0,-2.876367 -3.45763,-12.641074 -3.45763,-12.641074 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.054038,24.375875 0,44.344627 c 0,0 -3.6213,-11.707545 -3.52542,-14.008638 -17.641709,2.396972 -22.644069,18.478739 -22.644069,24.135593 -0.19176,5.465096 0.83586,17.897821 20.203389,27.389833 C 35.077009,105.47026 20.34443,83.808835 20.20808,65.003321 20.04489,42.496274 33.567872,27.681116 52.393029,21.762712 31.562393,37.751221 27.36445,48.646092 28.128659,66.246924 c 5.27334,-17.929352 15.90129,-26.599535 32.467749,-29.229975 0,-2.876367 3.45763,-12.641074 3.45763,-12.641074 z"
+       id="path4202"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccscccc" />
+  </g>
+</svg>
