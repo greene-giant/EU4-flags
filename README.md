@@ -2,8 +2,10 @@
 A flag mod for Europa Universalis IV
 
 ## Countries:
+![alt text](source/AFG.png "Afghanistan")
 ![alt text](source/CAT.png "Catalonia")
 ![alt text](source/GER.png "Germany")
+![alt text](source/DLH.png "Delhi")
 ![alt text](source/NOR.png "Norway")
 ![alt text](source/TUR.png "Ottomans")
 ![alt text](source/SCA.png "Scandinavia")
