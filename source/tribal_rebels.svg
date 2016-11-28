@@ -47,7 +47,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="5.2149125"
-     inkscape:cx="68.534593"
+     inkscape:cx="62.033471"
      inkscape:cy="68.51022"
      inkscape:window-x="307"
      inkscape:window-y="33"
@@ -65,7 +65,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:#816945;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     style="fill:#635035;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 0,0 128,128 128,0 Z"
      id="path3342"
      inkscape:connector-curvature="0"
@@ -75,7 +75,7 @@
      inkscape:export-filename="./catholic_rebels.png" />
   <g
      id="g4204"
-     transform="translate(0.00676,-10e-7)">
+     transform="matrix(0.86606967,0,0,0.86606967,8.5773958,6.5715403)">
     <path
        sodipodi:nodetypes="cccccscccc"
        inkscape:connector-curvature="0"
