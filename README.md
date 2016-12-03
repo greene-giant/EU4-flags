@@ -27,6 +27,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/shamanism_rebels.png "Shamanism Rebels")
 ![alt text](source/tengri_pagan_reformed_rebels.png "Tengri Rebels")
 ![alt text](source/vajrayana_rebels.png "Vajrayana Rebels")
+![alt text](source/zoroastrian_rebels.png "Zoroastrian Rebels")
 ![alt text](source/cossack_rebels.png "Cossack Rebels")
 ![alt text](source/anti_tax_rebels.png "Peasant Rebels")
 ![alt text](source/nationalist_rebels.png "Nationalist Rebels")
