@@ -24,6 +24,8 @@ A flag mod for Europa Universalis IV
 ![alt text](source/animism_rebels.png "Animism Rebels")
 ![alt text](source/confucianism_rebels.png "Confucianism Rebels")
 ![alt text](source/heretic_rebels.png "Heretic Rebels")
+![alt text](source/hinduism_rebels.png "Hinduism Rebels")
+![alt text](source/mahayana_rebels.png "Mahayana Rebels")
 ![alt text](source/shamanism_rebels.png "Shamanism Rebels")
 ![alt text](source/tengri_pagan_reformed_rebels.png "Tengri Rebels")
 ![alt text](source/vajrayana_rebels.png "Vajrayana Rebels")
