@@ -44,8 +44,10 @@ A flag mod for Europa Universalis IV
 
 ## Japan:
 ![alt text](source/ASK.png "Ashikaga")
+![alt text](source/DTE.png "Date")
 ![alt text](source/HSK.png "Hosokawa")
 ![alt text](source/HTK.png "Hatakeyama")
+![alt text](source/RFR.png "Nanbu")
 ![alt text](source/SBA.png "Shiba")
 ![alt text](source/SMZ.png "Shimuzu")
 ![alt text](source/TKI.png "Toki")
