@@ -1,4 +1,4 @@
 name="Custom Flags"
 path="mod/customFlags"
 
-supported_version="1.20.*"
+supported_version="1.21.*"

@@ -41,3 +41,13 @@ A flag mod for Europa Universalis IV
 ![alt text](source/reactionary_rebels.png "Reactionary Rebels")
 ![alt text](source/revolutionary_rebels.png "Revolutionary Rebels")
 ![alt text](source/tribal_rebels.png "Tribal Rebels")
+
+## Japan:
+![alt text](source/ASK.png "Ashikaga")
+![alt text](source/HSK.png "Hosokawa")
+![alt text](source/HTK.png "Hatakeyama")
+![alt text](source/SBA.png "Shiba")
+![alt text](source/SMZ.png "Shimuzu")
+![alt text](source/TKI.png "Toki")
+![alt text](source/UES.png "Uesugi")
+![alt text](source/YMN.png "Yamana")
