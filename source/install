@@ -1,0 +1,78 @@
+#! python
+
+#from __future__ import print_function
+
+import sys, os, shutil
+import subprocess as subp
+
+
+
+# Installation directory:
+installDir = os.environ['USERPROFILE'] + r'\Documents\Paradox Interactive\Europa Universalis IV\mod\customFlags\gfx\flags'
+
+
+# Create a list of all the source files in this directory:
+sourceList = []
+
+for f in os.listdir('.'):
+    if f[-3:] == "svg":
+        sourceList.append(f[0:-4])
+
+
+# Create a list of all the png files:
+pngList = []
+
+for f in os.listdir('.'):
+    if f[-3:] == "png":
+        pngList.append(f[0:-4])
+
+
+
+# Create a list of tga files that need updating:
+
+
+
+
+
+
+
+
+
+
+# Make a list of the files that to install:
+installList = []
+
+if "all" in sys.argv:
+    installList = pngList
+else:
+    for f in sys.argv:
+        if f in pngList:
+            installList.append(f)
+
+# Create the tga files and install them for the desired files:
+convertProgram = 'magick.exe'
+
+for f in installList:
+    cmd = convertProgram + ' ' + f + '.png ' + f + '.tga'
+
+    print('\nCreating ' + f + '.tga')
+
+    # Create tga:
+    print("Command :: " + cmd)
+    proc = subp.Popen(cmd, shell=True, stdout=subp.PIPE, stderr=subp.PIPE)
+
+    out, err = proc.communicate()
+    print("Output  :: " + out.decode("utf-8"))
+    print("Error   :: " + err.decode("utf-8"))
+
+    # Install:
+    source = f + '.tga'
+    dest   = installDir + '\\' + source
+    shutil.move(source, dest)
+
+    if source in os.listdir(installDir):
+        print('Install successful')
+    else:
+        print('Install failed')
+
+
