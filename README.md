@@ -43,6 +43,7 @@ A flag mod for Europa Universalis IV
 ![alt text](source/tribal_rebels.png "Tribal Rebels")
 
 ## Japan:
+![alt text](source/JAP.png "Japan")
 ![alt text](source/AMA.png "Amago")
 ![alt text](source/ASK.png "Ashikaga")
 ![alt text](source/DTE.png "Date")
